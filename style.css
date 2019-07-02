@@ -44,6 +44,7 @@ p {
     font-size: 50 px;
     color: dodgerblue;
     margin: 0;
+    text-align: center;
 }
   /* .p {
     display: flex;
