@@ -7,18 +7,37 @@ img {
     max-width: 400px;
     max-height: 200px;
     position: unset;
+    margin: 0;
 } 
 
 #map {
     height: 300px;
     width: 300px;
     position: absolute;
+    margin: 0;
     /* max-height: 600px; */
 }
 
 #hold {
     max-width: 600px;
     max-height: 600px;
+    margin: 0;
+}
+
+#button {
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+    color: cornflowerblue;
+    margin: 0;
+}
+
+p {
+    font-size: 50 px;
+    color: dodgerblue;
+    margin: 0;
 }
   /* .p {
     display: flex;
